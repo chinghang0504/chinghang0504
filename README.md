@@ -1,11 +1,8 @@
-# Welcome to Ching Hang Lam (Richard)'s GitHub Profile
+# Software Engineer - Ching Hang Lam (Richard)
 
-## Information
-
-- Name: Ching Hang Lam (Richard)
-- Job Title: Full Stack Developer
+## Contact
 - Email: <a href="mailto:chinghang0504@gmail.com">chinghang0504@gmail.com</a>
-- Personal Website: <a href="https://chinghangprofile.web.app/" target="_blank">https://chinghangprofile.web.app/</a>
+- Portfolio: <a href="https://ching-hang-portfolio.web.app/" target="_blank">https://chinghangprofile.web.app/</a>
 - LinkedIn: <a href="https://linkedin.com/in/ching-hang-lam" target="_blank">https://linkedin.com/in/ching-hang-lam</a>
 
 <br>
