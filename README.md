@@ -2,7 +2,7 @@
 
 ## Contact
 - Email: <a href="mailto:chinghang0504@gmail.com">chinghang0504@gmail.com</a>
-- Portfolio: <a href="https://ching-hang-portfolio.web.app/" target="_blank">https://chinghangprofile.web.app/</a>
+- Portfolio: <a href="https://ching-hang-portfolio.web.app/" target="_blank">https://ching-hang-portfolio.web.app/</a>
 - LinkedIn: <a href="https://linkedin.com/in/ching-hang-lam" target="_blank">https://linkedin.com/in/ching-hang-lam</a>
 
 <br>
